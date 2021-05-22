@@ -1,5 +1,12 @@
-# disable-vehicle-storage
-Need to disable vehicle storage? This mod will do that for the vanilla vehicles in 7 Days to Die:
+# Disable Vehicle Storage
+
+Disable storage space from vanilla vehicles to:
+
+1. help prevent item duplication exploits
+1. encourage players to carry gear on-hand, which increases the chance that PvP kills will be rewarded
+
+## Storage removed for
+
 - Bicycle
 - Minibike
 - Motorcycle
